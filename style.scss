@@ -156,7 +156,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 2px solid #393a3c;
 
   @include mobile {
     text-align: center;
@@ -273,9 +273,9 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  background-color: #282c34;
+  border-top: 2px solid #393a3c;
+  border-bottom: 2px solid #393a3c;
+  background-color: #3c404d;
 }
 
 footer {
