@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Building the arXiv classifier - I
+title: Building the arXiv classifier
 ---
 
 ## Project: arXivtag
@@ -14,16 +14,10 @@ The arXiv dataset is also large, structured, and well documented (more on that l
 I chose LDA because it is a popular algorithm for topic modeling with excellent implementations in python and is well documented/widely used (more on that later). 
 
 I'm planning to divide this into a few logical parts:
-1. Getting, cleaning, wrangling with data (takes way more time than you think)
+1. [Getting, cleaning, wrangling with data (takes way more time than you think)](http://seanpan.me/arXivtag1/)
 2. The real NLP work, more on the LDA model
 3. Some cool visualizations
 4. Building and testing various ML models 
 5. Possible future work
-
-
-### Part I: Getting the dataset
-#### The arXiv dataset
-The [arXiv](http://arxiv.org/) is a online repository of preprints of scientific papers in the fields of astronomy, physics, mathematics, computer science, quantitative biology, quantitative finance and statistics. To date it has more than a million papers and more are being added every day. This dataset I focused on is a relatively recent (2007-17) sample totaling approximately 800,000 pieces of metadata which I curated via a data dump using the arXiv APIs. They contain a significant number of papers from every category (>5000) submitted in the past decade. 
-
 
 
