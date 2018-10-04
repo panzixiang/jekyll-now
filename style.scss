@@ -74,7 +74,10 @@ a {
   &:link {
     color: inherit;
   }
-  &:visited, &:hover, &:active {
+  &:visited {
+    color: inherit;
+  }
+  &:hover, &:active {
     color: $blue;
   }
 }
