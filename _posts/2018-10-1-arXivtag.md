@@ -3,7 +3,7 @@ layout: post
 title: Building the arXiv classifier
 ---
 
-# Project: arXivtag
+## Project: arXivtag
 
 The following few posts are a short documentation of a pet project I did since graduating from college. I named it "arXivtag" because it is essentially a Latent Dirichlet Allocation (LDA) based article classifier. The goal is to classify (return the subject) when given an abstract of a new arXiv submission.
 
@@ -21,8 +21,8 @@ I'm planning to divide this into a few logical parts:
 5. Possible future work
 
 
-## Part I: Getting the dataset
-### The arXiv dataset
+### Part I: Getting the dataset
+#### The arXiv dataset
 The [arXiv](http://arxiv.org/) is a online repository of preprints of scientific papers in the fields of astronomy, physics, mathematics, computer science, quantitative biology, quantitative finance and statistics. To date it has more than a million papers and more are being added every day. This dataset I focused on is a relatively recent (2007-17) sample totaling approximately 800,000 pieces of metadata which I curated via a data dump using the arXiv APIs. They contain a significant number of papers from every category (>5000) submitted in the past decade. 
 
 
