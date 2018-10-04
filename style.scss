@@ -71,10 +71,12 @@ p {
 a {
   text-decoration: none;
 	cursor: pointer;
-  &:hover, &:active, &:visited {
+  &:link {
+    color: inherit;
+  }
+  &:visited, &:hover, &:active {
     color: $blue;
   }
-  color: inherit;
 }
 
 ul, ol {
