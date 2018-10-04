@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi I'm Sean! This is a blog for personal projects and other doodles
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+> People worry that computers will get too smart and take over the world, but the real problem is that they're too stupid and they've already taken over the world. - Pedro Domingos
 
 ### Contact me
 

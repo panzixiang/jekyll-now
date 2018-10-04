@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Building the arXiv classifier
+title: Building the arXiv classifier - I
 ---
 
 ## Project: arXivtag
@@ -26,4 +26,4 @@ I'm planning to divide this into a few logical parts:
 The [arXiv](http://arxiv.org/) is a online repository of preprints of scientific papers in the fields of astronomy, physics, mathematics, computer science, quantitative biology, quantitative finance and statistics. To date it has more than a million papers and more are being added every day. This dataset I focused on is a relatively recent (2007-17) sample totaling approximately 800,000 pieces of metadata which I curated via a data dump using the arXiv APIs. They contain a significant number of papers from every category (>5000) submitted in the past decade. 
 
 
-The parts of interest of this paper is the abstract and the category tag(s) of the papers. The goal here is to classify a new abstract correctly into one of the categories.
+
