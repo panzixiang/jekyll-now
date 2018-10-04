@@ -71,9 +71,10 @@ p {
 a {
   text-decoration: none;
 	cursor: pointer;
-  &:hover, &:active {
+  &:hover, &:active, &:visited {
     color: $blue;
   }
+  color: inherit;
 }
 
 ul, ol {
