@@ -1,4 +1,9 @@
-## Project: arXivtag
+---
+layout: post
+title: Project: arXivtag
+---
+
+## Overview
 
 The following few posts are a short and rather technical documentation of a pet project I did since graduating from college. I named it "arXivtag" because it is essentially a Latent Dirichlet Allocation (LDA) based article classifier. The goal is to classify (return the subject) when given a new abstract of an arXiv submission.
 
