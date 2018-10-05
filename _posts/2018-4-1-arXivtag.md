@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project: arXivtag
+title: Project arXivtag
 ---
 
 ## Overview
