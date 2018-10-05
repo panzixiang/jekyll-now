@@ -31,7 +31,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Fira Sans', -apple-system, BlinkMacSystemFont, 'segoe ui', 'helvetica neue', helvetica, ubuntu, roboto, noto, arial, sans-serif;
+  font-family: 'Fira Sans', 'helvetica neue', helvetica, ubuntu, roboto, noto, arial, sans-serif;
   color: #c3cee3;
   font-weight: bold;
 
@@ -121,6 +121,7 @@ img {
 
 blockquote {
   position: relative;
+  font-weight: bold;
   font-style: italic;
   padding-left: 1.2em;
   font-size: 1.2em;
