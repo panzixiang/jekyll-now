@@ -21,9 +21,6 @@ body {
 	background: #282c34;
   font: 18px/1.4 'Fira Sans';
   color: #c3cee3;
-  a {
-    color: #82aaff;
-  }
 }
 
 .container {
@@ -84,6 +81,10 @@ a {
     color: $blue;
   }
 }
+
+p > a:link{
+    color: #82aaff;
+  }
 
 ul, ol {
   margin: 15px 0;

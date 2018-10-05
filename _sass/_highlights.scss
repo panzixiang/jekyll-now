@@ -3,8 +3,8 @@ pre,
 code {
   font-family: "Fira Mono", Consolas, Monaco, monospace;
   color: #c3cee3;
-  background:  #282c34;
-  font-size: 13px;
+  background:  #273238;
+  font-size: 16px;
   white-space: pre-wrap;       /* css-3 */
   white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
   white-space: -pre-wrap;      /* Opera 4-6 */
@@ -12,9 +12,6 @@ code {
   word-wrap: break-word;       /* Internet Explorer 5.5+ */
 }
 code {
-  -webkit-border-radius: 2px;
-  border-radius: 2px;
-  border: 1px solid #ddd;
   padding: 0 5px;
 }
 pre {
