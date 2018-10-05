@@ -15,7 +15,6 @@ code {
   padding: 0 5px;
 }
 pre {
-  font-size: 14px;
   padding: 10px 15px;
   padding-bottom: 0;
   line-height: 22px;
@@ -24,6 +23,7 @@ pre {
   border: 1px solid #ddd;
 }
 pre code {
+  font-size: 14px;
   border: none;
   display: block;
   padding: 0;
