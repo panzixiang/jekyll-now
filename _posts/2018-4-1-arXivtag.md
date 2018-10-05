@@ -15,7 +15,8 @@ I chose LDA because it is a popular algorithm for topic modeling with excellent 
 
 I'm planning to divide this into a few logical parts:
 1. Getting, cleaning, wrangling with data (takes way more time than you think)
-2. The real NLP work, more on the LDA model
-3. Some cool visualizations
-4. Building and testing various ML models 
-5. Possible future work
+2. Some NLP work
+3. More on the LDA model
+4. Some cool visualizations
+5. Building and testing various ML models 
+6. Possible future work
