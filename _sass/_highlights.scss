@@ -4,7 +4,6 @@ code {
   font-family: "Fira Mono", Consolas, Monaco, monospace;
   color: #c3cee3;
   background:  #273238;
-  font-size: 16px;
   white-space: pre-wrap;       /* css-3 */
   white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
   white-space: -pre-wrap;      /* Opera 4-6 */
@@ -12,9 +11,11 @@ code {
   word-wrap: break-word;       /* Internet Explorer 5.5+ */
 }
 code {
+  font-size: 17px;
   padding: 0 5px;
 }
 pre {
+  font-size: 14px;
   padding: 10px 15px;
   padding-bottom: 0;
   line-height: 22px;
