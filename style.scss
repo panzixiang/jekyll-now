@@ -71,6 +71,7 @@ p {
 }
 
 a {
+  font-family: "Lato", sans-serif;
   text-decoration: none;
 	cursor: pointer;
   &:link {
@@ -122,6 +123,7 @@ img {
 }
 
 blockquote {
+  font-family: "Lato", sans-serif;
   position: relative;
   font-weight: bold;
   font-style: italic;
