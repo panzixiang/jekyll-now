@@ -10,7 +10,7 @@ I take photographs [here](https://www.panzixiang.com/)
 
 ### More Information
 
->People worry that computers will get too smart and take over the world, but the real problem is that they're too stupid and they've already taken over the world. &npsp;   &npsp;   &npsp;   &npsp;  - Pedro Domingos
+>People worry that computers will get too smart and take over the world, but the real problem is that they're too stupid and they've already taken over the world. `emsp;emsp;`  - Pedro Domingos
 
 Lato is a great font, check it out [here](https://fonts.google.com/specimen/Lato) 
 
