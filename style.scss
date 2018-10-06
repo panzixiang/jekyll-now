@@ -128,12 +128,13 @@ img {
 
 blockquote {
   font-family: "Lato", sans-serif;
+  color: $gray;
   font-size: 18px;
   position: relative;
   font-style: italic;
   padding-left: 1.2em;
   font-size: 1.2em;
-  border-left: 15em solid lighten($black, 30%);
+  border-left: 5em solid lighten($black, 30%);
 }
 
 // Fixes images in popup boxes from Google Translate
@@ -281,10 +282,10 @@ nav {
 .post {
   blockquote {
     margin: 1.8em .8em;
-    border-left: 2px solid $gray;
+    border-left: 5em solid lighten($black, 30%);
     padding: 0.1em 1em;
     color: $gray;
-    font-size: 22px;
+    font-size: 18px;
     font-style: italic;
   }
 
