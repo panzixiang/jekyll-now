@@ -89,6 +89,10 @@ p > a:link {
     color: #82aaff;
   }
 
+ul, ol > a:link {
+    color: #82aaff;
+  }
+
 ul, ol {
   margin: 15px 0;
   padding-left: 30px;
