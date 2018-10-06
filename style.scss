@@ -89,11 +89,7 @@ p > a:link {
     color: #82aaff;
   }
 
-ul > a:link {
-    color: #82aaff;
-  }
-
-ol > a:link {
+li > a:link {
     color: #82aaff;
   }
 
@@ -146,6 +142,7 @@ blockquote {
 }
 
 .date {
+  padding: 1em;
   font-style: italic;
   color: $gray;
 }
