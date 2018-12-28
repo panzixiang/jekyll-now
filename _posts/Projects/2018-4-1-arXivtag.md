@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Project arXivtag
-Projects: Projects
+category: Projects
 ---
 
 ## Overview
