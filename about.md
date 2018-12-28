@@ -7,6 +7,7 @@ permalink: /about/
 Hi I'm Sean! This is a blog for personal projects and other doodles. I'm a graduate of Princeton University (go Tigers!) class of 2016 majoring in mathematics. I am interested in natural language processing and computational linguistics and their roles in artificial intelligence and human-computer interaction.
 
 I take photographs [here](https://www.panzixiang.com/)
+I keep a reading list at [Goodreads](https://www.goodreads.com/user/show/37606149-panz)
 
 ### More Information
 
