@@ -16,7 +16,7 @@ The 2020 election was a different kind of nail-biter, not because it was close, 
 
 It has almost been a year since I switched jobs. Amazon feels much bigger, an endless networks of cogs and machines. An empire in every sense. 
 
-### Whisky review
+### A whisky review
 
 Good old Macallan 12, 43% ABV
 I'm liking Highland more and more
